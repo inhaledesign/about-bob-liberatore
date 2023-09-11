@@ -1,4 +1,12 @@
-.profile {
-    width: 100px;
-    height: 100px;
+.profile-photo {
+    width: 300px;
+    height: 300px;
+}
+
+li {
+    font-style: oblique;
+}
+
+body {
+    font-family: Georgia, serif;;
 }
