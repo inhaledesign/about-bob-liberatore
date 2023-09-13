@@ -9,7 +9,7 @@ li {
 
 body {
     font-family: Georgia, serif;;
-    padding-top: 15%;
+    padding-top: 8%;
 }
 
 body {
@@ -20,13 +20,14 @@ body {
 }
 
 head {
-    color: orangered;
+    color: white;
 }
 
 h1 {
-    color: antiquewhite;
+    color: orangered;
 }
 
 ul {
     color: antiquewhite;
+    text-shadow: 2px 2px 2px red;
 }
