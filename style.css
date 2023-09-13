@@ -9,4 +9,24 @@ li {
 
 body {
     font-family: Georgia, serif;;
+    padding-top: 15%;
+}
+
+body {
+    text-align: center;
+    background-image: url("firespin2.jpeg");
+    background-position: right;
+    background-repeat: no-repeat;
+}
+
+head {
+    color: orangered;
+}
+
+h1 {
+    color: antiquewhite;
+}
+
+ul {
+    color: antiquewhite;
 }
